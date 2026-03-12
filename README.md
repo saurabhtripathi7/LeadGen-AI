@@ -40,7 +40,7 @@ The lead generation system operates on a multi-agent architecture orchestrated b
     - `re`: Regular expressions for text processing (if needed).
     - `typing`: Type hinting for code clarity.
     - Other libraries listed in `requirements.txt`.
-* **Logging:** Comprehensive logging is implemented using `setup_logger` in `utils.py` to track application behavior, errors, and debug information, writing logs to `logs` directory.
+* **Logging:** Comprehensive logging is implemented using `setup_logger` in `utils.py` to track application behavior, errors, and debug information, writing logs to `logs` directory .
 
 ## Installation and Deployment
 
